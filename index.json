@@ -1,0 +1,367 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Casual T-Shirt",
+        "description": "This lightweight cotton t-shirt is perfect for everyday wear. Available in vibrant colors and a relaxed fit that suits all body types.",
+        "stars": 4.5,
+        "sizes": ["S", "M", "L", "XL"],
+        "price": 15.99,
+        "image": "../Assets/productsImg/casual-tshirt.png",
+        "color": "blue",
+        "category": "clothing"
+      },
+      {
+        "id": 2,
+        "title": "Winter Jacket",
+        "description": "Stay warm in style with this winter jacket, featuring a detachable hood, fleece lining, and wind-resistant exterior.",
+        "stars": 4.8,
+        "sizes": ["M", "L", "XL"],
+        "price": 99.99,
+        "image": "../Assets/productsImg/winterJacket.png",
+        "color": "green",
+        "category": "clothing"
+      },
+      {
+        "id": 3,
+        "title": "Running Shoes",
+        "description": "Lightweight and cushioned running shoes designed to support your feet during daily exercise and long runs.",
+        "stars": 4.3,
+        "sizes": ["8", "9", "10", "11"],
+        "price": 59.99,
+        "image": "../Assets/productsImg/runningShoes.png",
+        "color": "black",
+        "category": "footwear"
+      },
+      {
+        "id": 4,
+        "title": "Sneakers",
+        "description": "Modern sneakers with breathable fabric and ergonomic design for all-day comfort.",
+        "stars": 4.2,
+        "sizes": ["6", "7", "8", "9", "10"],
+        "price": 49.99,
+        "image": "../Assets/productsImg/sneakers.png",
+        "color": "white",
+        "category": "footwear"
+      },
+      {
+        "id": 5,
+        "title": "Smart Watch",
+        "description": "Feature-packed smart watch that monitors your fitness levels, heart rate, and provides notifications.",
+        "stars": 4.6,
+        "sizes": [],
+        "price": 199.99,
+        "image": "../Assets/productsImg/smartWatch.png",
+        "category": "electronics"
+      },
+      {
+        "id": 6,
+        "title": "Wireless Headphones",
+        "description": "Noise-cancelling headphones with wireless Bluetooth connectivity, offering immersive sound quality.",
+        "stars": 4.7,
+        "sizes": [],
+        "price": 89.99,
+        "image": "../Assets/productsImg/headphones.png",
+        "category": "electronics"
+      },
+      {
+        "id": 7,
+        "title": "Ceramic Vase",
+        "description": "Elegant ceramic vase with a glossy finish, ideal for holding flowers or as a stand-alone decor piece.",
+        "stars": 4.5,
+        "sizes": [],
+        "price": 18.99,
+        "image": "../Assets/productsImg/ceramicVase.png",
+        "color": "white",
+        "category": "home decor"
+      },
+      {
+        "id": 8,
+        "title": "Weighted Blanket",
+        "description": "Soft and comfortable weighted blanket designed to enhance sleep and reduce stress.",
+        "stars": 4.6,
+        "sizes": ["Single", "Queen", "King"],
+        "price": 69.99,
+        "image": "../Assets/productsImg/weightedBlanket.png",
+        "color": "gray",
+        "category": "home decor"
+      },
+      {
+        "id": 9,
+        "title": "Electric Kettle",
+        "description": "Stainless steel kettle with rapid boiling technology and auto-shutoff feature for safety.",
+        "stars": 4.5,
+        "sizes": [],
+        "price": 24.99,
+        "image": "../Assets/productsImg/electricKettle.png",
+        "color": "silver",
+        "category": "kitchen"
+      },
+      {
+        "id": 10,
+        "title": "Cookware Set",
+        "description": "Non-stick, dishwasher-safe cookware set including frying pans and saucepans, perfect for all cooking needs.",
+        "stars": 4.7,
+        "sizes": [],
+        "price": 59.99,
+        "image": "../Assets/productsImg/cookwareSet.png",
+        "category": "kitchen"
+      },
+      {
+        "id": 11,
+        "title": "Blender",
+        "description": "Compact blender with high-speed settings, ideal for smoothies, sauces, and soups.",
+        "stars": 4.5,
+        "sizes": [],
+        "price": 29.99,
+        "image": "../Assets/productsImg/Blender.png",
+        "category": "kitchen"
+      },
+      {
+        "id": 12,
+        "title": "Espresso Machine",
+        "description": "Espresso machine with built-in steam frother for perfect cappuccinos and lattes.",
+        "stars": 4.6,
+        "sizes": [],
+        "price": 89.99,
+        "image": "../Assets/productsImg/espresoMachine.png",
+        "category": "kitchen"
+      },
+      {
+        "id": 13,
+        "title": "Denim Jeans",
+        "description": "Classic, comfortable denim jeans that can be dressed up or down for any occasion.",
+        "stars": 4.3,
+        "sizes": ["S", "M", "L", "XL"],
+        "price": 39.99,
+        "image": "../Assets/productsImg/jeansDenim.png",
+        "color": "blue",
+        "category": "clothing"
+      },
+      {
+        "id": 14,
+        "title": "Leather Belt",
+        "description": "Durable leather belt with stylish metal buckle, perfect for formal and casual outfits.",
+        "stars": 4.7,
+        "sizes": ["S", "M", "L"],
+        "price": 19.99,
+        "image": "../Assets/productsImg/belt.png",
+        "color": "brown",
+        "category": "clothing"
+      },
+      {
+        "id": 15,
+        "title": "Formal Shoes",
+        "description": "Elegant leather formal shoes that complement business attire and dressy occasions.",
+        "stars": 4.5,
+        "sizes": ["8", "9", "10", "11"],
+        "price": 79.99,
+        "image": "../Assets/productsImg/formalShoes.png",
+        "color": "black",
+        "category": "footwear"
+      },
+      {
+        "id": 16,
+        "title": "Bluetooth Speaker",
+        "description": "Portable Bluetooth speaker with high-definition sound and bass boost feature.",
+        "stars": 4.8,
+        "sizes": [],
+        "price": 29.99,
+        "image": "../Assets/productsImg/speakerBleut.png",
+        "category": "electronics"
+      },
+      {
+        "id": 17,
+        "title": "Table Lamp",
+        "description": "Adjustable table lamp with multiple brightness levels and an energy-efficient LED bulb.",
+        "stars": 4.5,
+        "sizes": [],
+        "price": 34.99,
+        "image": "../Assets/productsImg/lampTable.png",
+        "color": "yellow",
+        "category": "home decor"
+      },
+      {
+        "id": 18,
+        "title": "Memory Foam Pillow",
+        "description": "Comfortable memory foam pillow that molds to your shape, ensuring a restful sleep.",
+        "stars": 4.6,
+        "sizes": ["Standard", "Queen"],
+        "price": 24.99,
+        "image": "../Assets/productsImg/foamPillow.png",
+        "color": "white",
+        "category": "home decor"
+      },
+      {
+        "id": 19,
+        "title": "Vacuum Cleaner",
+        "description": "Cordless vacuum cleaner with powerful suction, ideal for hardwood floors and carpets.",
+        "stars": 4.7,
+        "sizes": [],
+        "price": 129.99,
+        "image": "../Assets/productsImg/cleaner.png",
+        "category": "kitchen"
+      },
+      {
+        "id": 20,
+        "title": "Air Purifier",
+        "description": "Compact air purifier with HEPA filter for cleaner and fresher air.",
+        "stars": 4.6,
+        "sizes": [],
+        "price": 149.99,
+        "image": "../Assets/productsImg/airPrefium.png",
+        "color": "white",
+        "category": "home decor"
+      },
+      {
+        "id": 21,
+        "title": "Yoga Mat",
+        "description": "Non-slip yoga mat designed for comfort during exercise routines and meditation.",
+        "stars": 4.4,
+        "sizes": ["Standard", "Extra Long"],
+        "price": 18.99,
+        "image": "../Assets/productsImg/yogaMat.png",
+        "color": "purple",
+        "category": "sports"
+      },
+      {
+        "id": 22,
+        "title": "Laptop Stand",
+        "description": "Adjustable laptop stand to improve ergonomics and reduce neck strain.",
+        "stars": 4.5,
+        "sizes": [],
+        "price": 24.99,
+        "image": "../Assets/productsImg/laptop.png",
+        "category": "electronics"
+      },
+      {
+        "id": 23,
+        "title": "Wireless Charger",
+        "description": "Fast wireless charger compatible with various smartphone models.",
+        "stars": 4.7,
+        "sizes": [],
+        "price": 24.99,
+        "image": "../Assets/productsImg/charger.png",
+        "category": "electronics"
+      },
+      {
+        "id": 24,
+        "title": "Wooden Coffee Table",
+        "description": "Elegant wooden coffee table for living room, with a smooth finish and sturdy design.",
+        "stars": 4.5,
+        "sizes": [],
+        "price": 149.99,
+        "image": "../Assets/productsImg/woodTable.png",
+        "color": "brown",
+        "category": "home decor"
+      },
+      {
+        "id": 25,
+        "title": "Fitness Tracker",
+        "description": "Track your steps, calories, and heart rate with this compact fitness tracker.",
+        "stars": 4.6,
+        "sizes": [],
+        "price": 39.99,
+        "image": "../Assets/productsImg/fitnessTracker.png",
+        "category": "electronics"
+      },
+      {
+        "id": 26,
+        "title": "Adjustable Dumbbells",
+        "description": "Set of adjustable dumbbells to enhance your strength training workouts.",
+        "stars": 4.8,
+        "sizes": ["15 lbs", "30 lbs", "50 lbs"],
+        "price": 79.99,
+        "image": "../Assets/productsImg/dumbbells.png",
+        "category": "sports"
+      },
+      {
+        "id": 27,
+        "title": "Bamboo Cutting Board",
+        "description": "Eco-friendly bamboo cutting board with a smooth surface and juice groove.",
+        "stars": 4.7,
+        "sizes": [],
+        "price": 14.99,
+        "image": "../Assets/productsImg/cuttingBoard.png",
+        "color": "brown",
+        "category": "kitchen"
+      },
+      {
+        "id": 28,
+        "title": "Foldable Desk",
+        "description": "Space-saving foldable desk ideal for home offices or small apartments.",
+        "stars": 4.5,
+        "sizes": [],
+        "price": 89.99,
+        "image": "../Assets/productsImg/foldableDesk.png",
+        "color": "white",
+        "category": "home decor"
+      },
+      {
+        "id": 29,
+        "title": "Cotton Bathrobe",
+        "description": "Soft and absorbent cotton bathrobe for ultimate comfort after a shower.",
+        "stars": 4.4,
+        "sizes": ["M", "L", "XL"],
+        "price": 34.99,
+        "image": "../Assets/productsImg/bathrobe.png",
+        "color": "beige",
+        "category": "clothing"
+      },
+      {
+        "id": 30,
+        "title": "Gaming Mouse",
+        "description": "High-performance gaming mouse with customizable buttons and RGB lighting.",
+        "stars": 4.7,
+        "sizes": [],
+        "price": 49.99,
+        "image": "../Assets/productsImg/gamingMouse.png",
+        "category": "electronics"
+      },
+      {
+        "id": 31,
+        "title": "Picnic Blanket",
+        "description": "Waterproof picnic blanket, perfect for outdoor activities and family gatherings.",
+        "stars": 4.6,
+        "sizes": ["Medium", "Large"],
+        "price": 24.99,
+        "image": "../Assets/productsImg/picnicBlanket.png",
+        "color": "red",
+        "category": "home decor"
+      },
+      {
+        "id": 32,
+        "title": "Foam Roller",
+        "description": "Durable foam roller to relieve muscle tension and improve flexibility.",
+        "stars": 4.5,
+        "sizes": [],
+        "price": 19.99,
+        "image": "../Assets/productsImg/foamRoller.png",
+        "color": "blue",
+        "category": "sports"
+      },
+      {
+        "id": 33,
+        "title": "LED Strip Lights",
+        "description": "Flexible LED strip lights to create vibrant and customizable lighting for any space.",
+        "stars": 4.8,
+        "sizes": [],
+        "price": 29.99,
+        "image": "../Assets/productsImg/ledLights.png",
+        "color": "multicolor",
+        "category": "electronics"
+      },
+      {
+        "id": 34,
+        "title": "Silicone Spatula Set",
+        "description": "Heat-resistant silicone spatulas for cooking and baking.",
+        "stars": 4.7,
+        "sizes": [],
+        "price": 12.99,
+        "image": "../Assets/productsImg/spatulas.png",
+        "color": "green",
+        "category": "kitchen"
+      }
+    ]
+  }
+  
